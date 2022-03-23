@@ -20,6 +20,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix extraction from template literal/function with array ([#7481](https://github.com/tailwindlabs/tailwindcss/pull/7481))
 - Don't output unparsable arbitrary values ([#7789](https://github.com/tailwindlabs/tailwindcss/pull/7789))
 - Fix generation of `div:not(.foo)` if `.foo` is never defined ([#7815](https://github.com/tailwindlabs/tailwindcss/pull/7815))
+- More type improvements ([#7926](https://github.com/tailwindlabs/tailwindcss/pull/7926))
 
 ### Changed
 
